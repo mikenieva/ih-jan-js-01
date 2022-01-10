@@ -55,4 +55,10 @@ const hasEngine = null
 
 
 // NO PRIMITIVOS
+// OBJETO
+const comida = {
+	desayuno: "Hot Cakes",
+	comida: "Chilaquiles" 
+}
+
 
